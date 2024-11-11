@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fafafa;
+    display: flex;
+    margin: 0;
+}
+nav {
+    background-color: #033b7d;
+}
+nav a, nav a:hover {
+    color: #fff;
+}
+main {
+    padding: 20px;
+    width: 100%;
+}
+.highlight {
+    color: #ed2124;
+}
+h1, h2, h3 {
+    font-weight: bold;
+}
+.download-links a {
+    margin: 5px;
+    display: inline-block;
+    padding: 10px;
+    background-color: #ed2124;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.sidenav {
+    background-color: #033b7d;
+}
+.sidenav a {
+    color: #fff;
+}
+@media screen and (min-width: 992px) {
+    nav {
+        width: 250px;
+        position: fixed;
+        height: 100%;
+    }
+    main {
+        margin-left: 250px;
+    }
+}
