@@ -1,0 +1,40 @@
+/* Coolors Exported Palette - https://coolors.co/038afa-033b7d-1c1c1c-fce53d-6d6e71-939598-d1d3d4-02bdff-0559b5-ed2124 */
+
+- Tailwind
+
+{ 'bleu_de_france': { DEFAULT: '#038afa', 100: '#011c32', 200: '#013865', 300: '#025497', 400: '#0270ca', 500: '#038afa', 600: '#35a3fd', 700: '#68bafd', 800: '#9ad1fe', 900: '#cde8fe' }, 'yale_blue': { DEFAULT: '#033b7d', 100: '#010c19', 200: '#011832', 300: '#02244b', 400: '#033063', 500: '#033b7d', 600: '#0560c7', 700: '#1f85f9', 800: '#6aaefb', 900: '#b4d6fd' }, 'eerie_black': { DEFAULT: '#1c1c1c', 100: '#060606', 200: '#0b0b0b', 300: '#111111', 400: '#161616', 500: '#1c1c1c', 600: '#494949', 700: '#777777', 800: '#a4a4a4', 900: '#d2d2d2' }, 'maize': { DEFAULT: '#fce53d', 100: '#3d3601', 200: '#7b6c02', 300: '#b8a303', 400: '#f5d904', 500: '#fce53d', 600: '#fdeb62', 700: '#fdf089', 800: '#fef5b1', 900: '#fefad8' }, 'dim_gray': { DEFAULT: '#6d6e71', 100: '#161617', 200: '#2c2c2e', 300: '#424345', 400: '#58595c', 500: '#6d6e71', 600: '#8a8c8f', 700: '#a8a8ab', 800: '#c5c5c7', 900: '#e2e2e3' }, 'battleship_gray': { DEFAULT: '#939598', 100: '#1d1e1f', 200: '#3b3c3d', 300: '#585a5c', 400: '#76787b', 500: '#939598', 600: '#aaabad', 700: '#bfc0c2', 800: '#d4d5d6', 900: '#eaeaeb' }, 'timberwolf': { DEFAULT: '#d1d3d4', 100: '#292b2c', 200: '#525657', 300: '#7b8083', 400: '#a7aaac', 500: '#d1d3d4', 600: '#dbdddd', 700: '#e4e5e6', 800: '#edeeee', 900: '#f6f6f7' }, 'deep_sky_blue': { DEFAULT: '#02bdff', 100: '#002533', 200: '#004b66', 300: '#007099', 400: '#0096cc', 500: '#02bdff', 600: '#33c9ff', 700: '#66d6ff', 800: '#99e4ff', 900: '#ccf1ff' }, 'denim': { DEFAULT: '#0559b5', 100: '#011224', 200: '#022448', 300: '#03356b', 400: '#04478f', 500: '#0559b5', 600: '#0678f3', 700: '#409afa', 800: '#80bcfc', 900: '#bfddfd' }, 'red_(cmyk)': { DEFAULT: '#ed2124', 100: '#320405', 200: '#64080a', 300: '#960c0e', 400: '#c81013', 500: '#ed2124', 600: '#f14e50', 700: '#f47a7c', 800: '#f8a6a8', 900: '#fbd3d3' } }
+
+- CSV
+
+038afa,033b7d,1c1c1c,fce53d,6d6e71,939598,d1d3d4,02bdff,0559b5,ed2124
+
+- With #
+
+#038afa, #033b7d, #1c1c1c, #fce53d, #6d6e71, #939598, #d1d3d4, #02bdff, #0559b5, #ed2124
+
+- Array
+
+["038afa","033b7d","1c1c1c","fce53d","6d6e71","939598","d1d3d4","02bdff","0559b5","ed2124"]
+
+- Object
+
+{"Bleu de France":"038afa","Yale Blue":"033b7d","Eerie black":"1c1c1c","Maize":"fce53d","Dim gray":"6d6e71","Battleship gray":"939598","Timberwolf":"d1d3d4","Deep Sky Blue":"02bdff","Denim":"0559b5","Red (CMYK)":"ed2124"}
+
+- Extended Array
+
+[{"name":"Bleu de France","hex":"038afa","rgb":[3,138,250],"cmyk":[99,45,0,2],"hsb":[207,99,98],"hsl":[207,98,50],"lab":[57,11,-64]},{"name":"Yale Blue","hex":"033b7d","rgb":[3,59,125],"cmyk":[98,53,0,51],"hsb":[212,98,49],"hsl":[212,95,25],"lab":[26,12,-42]},{"name":"Eerie black","hex":"1c1c1c","rgb":[28,28,28],"cmyk":[0,0,0,89],"hsb":[0,0,11],"hsl":[0,0,11],"lab":[10,0,0]},{"name":"Maize","hex":"fce53d","rgb":[252,229,61],"cmyk":[0,9,76,1],"hsb":[53,76,99],"hsl":[53,97,61],"lab":[90,-9,79]},{"name":"Dim gray","hex":"6d6e71","rgb":[109,110,113],"cmyk":[4,3,0,56],"hsb":[225,4,44],"hsl":[225,2,44],"lab":[46,0,-2]},{"name":"Battleship gray","hex":"939598","rgb":[147,149,152],"cmyk":[3,2,0,40],"hsb":[216,3,60],"hsl":[216,2,59],"lab":[62,0,-2]},{"name":"Timberwolf","hex":"d1d3d4","rgb":[209,211,212],"cmyk":[1,0,0,17],"hsb":[200,1,83],"hsl":[200,3,83],"lab":[84,0,-1]},{"name":"Deep Sky Blue","hex":"02bdff","rgb":[2,189,255],"cmyk":[99,26,0,0],"hsb":[196,99,100],"hsl":[196,100,50],"lab":[72,-17,-43]},{"name":"Denim","hex":"0559b5","rgb":[5,89,181],"cmyk":[97,51,0,29],"hsb":[211,97,71],"hsl":[211,95,36],"lab":[39,15,-55]},{"name":"Red (CMYK)","hex":"ed2124","rgb":[237,33,36],"cmyk":[0,86,85,7],"hsb":[359,86,93],"hsl":[359,85,53],"lab":[51,73,52]}]
+
+- XML
+
+<palette>
+  <color name="Bleu de France" hex="038afa" r="3" g="138" b="250" />
+  <color name="Yale Blue" hex="033b7d" r="3" g="59" b="125" />
+  <color name="Eerie black" hex="1c1c1c" r="28" g="28" b="28" />
+  <color name="Maize" hex="fce53d" r="252" g="229" b="61" />
+  <color name="Dim gray" hex="6d6e71" r="109" g="110" b="113" />
+  <color name="Battleship gray" hex="939598" r="147" g="149" b="152" />
+  <color name="Timberwolf" hex="d1d3d4" r="209" g="211" b="212" />
+  <color name="Deep Sky Blue" hex="02bdff" r="2" g="189" b="255" />
+  <color name="Denim" hex="0559b5" r="5" g="89" b="181" />
+  <color name="Red (CMYK)" hex="ed2124" r="237" g="33" b="36" />
+</palette>
